@@ -1,0 +1,4 @@
+name: SimpleHandcuffs
+version: '${version}'
+main: kz.hxncus.mc.simplehandcuffs.SimpleHandcuffs
+api-version: '1.13'
